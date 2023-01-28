@@ -1,6 +1,4 @@
 spring:
   datasource:
     username: root
-spring:
-  datasource:
     password: ~#[RosN17]*$
